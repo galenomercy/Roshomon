@@ -1,6 +1,15 @@
-#Roshomon
+
 # Roshomon
-DeadlyHotel罗生门版
+
+>## 目录
+* [关于项目](#about_the_project)
+* [工具](#tools)
+* [安装说明](#installation_instructions)
+* [联系方式](#contact)
+<a class="anchor" id="about the project"></a>
+>## 关于项目
+
+## DeadlyHotel罗生门版
 在一张地图上发生的凶杀和推理游戏简化版。
 
 
@@ -41,3 +50,14 @@ DeadlyHotel罗生门版
 ①侦探环节在原先基础上，左边的询问界面下面多了一个性格参考表，与第三部分的表格一致。
 ②右边的笔记界面上，增加了关于性格的标签，玩家可以像拖拽角色头像一样，将这些性格表情也拖拽在上方每个时间点的地图上进行记录。
 ③点击查看答案时，额外展示每个人的性格。
+<a class="anchor" id="tools"></a>
+>## 工具
+1. Unity
+2. C#
+3. Python(Progressing...)
+   
+<a class="anchor" id="contact"></a>
+>## 联系方式
+[Cao Rui](https://www.douban.com/people/galenomercy/?_i=3085018YXd4lhE) - 豆瓣
+
+[@Cao Rui](galenomercy716@gmail.com) - 邮箱
